@@ -8,3 +8,4 @@ The repository includes summaries of key concepts, mathematical foundations, and
 Feel free to explore the contents, contribute to the repository, and share it with others who might find it useful.
 
 Happy learning, and let's dive into the exciting world of AI and Machine Learning!
+
