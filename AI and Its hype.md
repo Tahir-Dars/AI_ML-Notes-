@@ -1,4 +1,4 @@
-Understanding the hype around AI:-
+## Understanding the hype around AI:-
                                  Artificial Intelligence is a revolutionary technology pervading different aspects of our lives. As with any 
                                 revolutionary technology such as the personal computer, the smartphone, and the Internet, AI is also subject to hype 
                                  that can be  visualized in a graph. 
