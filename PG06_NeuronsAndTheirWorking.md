@@ -45,6 +45,29 @@ as parameters to calculate Y. Here, X is the known input, and the model uses X a
 ## Artificial Neuron
 An artificial neuron is a mathematical function that takes in inputs and parameters and calculates an output. 
 The power of neural networks results from a vast number of artificial neurons networked together.
+## The Learning in Machine Learning
+Given the equation Y = 2X - 1, we can calculate values of Y for different values of X, knowing W is 2 and B is -1. 
+If we provide these values as training data to a machine, it learns the parameters W and B to predict the output 
+for new, unseen values of X.
+
+<img width="189" alt="table01" src="https://github.com/Tahir-Dars/AI_ML-Notes-/assets/150343129/2ab301da-7f37-4e3b-98b8-6dc80b4484bb">
+
+## Learning Steps 
+#### .  The machine starts with random guesses for W and B and calculates the error (loss) based on the predicted and actual Y values.
+#### .  It adjusts W and B to minimize this loss iteratively, generating new guesses.
+#### .  For example, initial guesses with large errors are refined to produce reduced errors.
+#### .  This process continues until optimal parameters are found, which are then tested with new inputs for accuracy.
+
+Based on the Learning Steps, we can conclude that machines learn by figuring out a pattern or a relationship by guessing the parameters, calculating the loss, and using this information to generate new and better guesses. 
+
+
+
+
+
+
+
+
+
 
 
 
