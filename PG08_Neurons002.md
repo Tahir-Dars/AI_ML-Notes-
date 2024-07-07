@@ -16,4 +16,18 @@ In reality, a neuron is essentially a function with two adjustable parameters kn
 This equation mirrors the relationship described between X and Y, where Y = 2X - 1. Here, the weight corresponds to 2, and the bias to -1.
 When multiple neurons operate together within layers, the learned weights and biases across these layers enable the neural network to discern and understand more intricate patterns. Further insights into this process will be explored in subsequent parts of the course.
 
+Another interaction you should explore is the TensorFlow Playground at:
+https://playground.tensorflow.org/. 
+
+<img width="392" alt="Steps001" src="https://github.com/Tahir-Dars/AI_ML_Basics--Notes-/assets/150343129/583bcfcb-8dd3-4a1b-8189-547af2442563">
+
+<img width="396" alt="Steps002" src="https://github.com/Tahir-Dars/AI_ML_Basics--Notes-/assets/150343129/90e8a07e-2473-409c-8ec2-d400e4d65ae9">
+
+<img width="401" alt="Steps003" src="https://github.com/Tahir-Dars/AI_ML_Basics--Notes-/assets/150343129/39496a37-7f91-4b47-bcb7-693ca2a027c5">
+
+<img width="408" alt="Steps004" src="https://github.com/Tahir-Dars/AI_ML_Basics--Notes-/assets/150343129/a1f763da-0d29-445b-9e79-3204415589a1">
+
+<img width="416" alt="Steps005" src="https://github.com/Tahir-Dars/AI_ML_Basics--Notes-/assets/150343129/cbbfb971-7df7-462a-bfc0-63a5eb56325b">
+
+
 
